@@ -10,6 +10,7 @@
       "ok": true,
       "errors": [],
       "warnings": [
+        "submissions/xiaopi668/jingzhang-ai-belt/manifest.json: published schema legacy advisory: validation_claim: Additional properties are not allowed ('readiness_contract' was unexpected); update this manifest before adopting schema 0.2.x",
         "submissions/xiaopi668/jingzhang-ai-belt/geometry/site_boundary.geojson: uses provisional boundary; do not treat it as an official redline or precise-area basis. Organizer data gaps do not block content scoring; recalculate when official geometry is supplied"
       ],
       "proposal_files": [
@@ -64,7 +65,7 @@
       "ai_package_stages": {
         "submissions/xiaopi668/jingzhang-ai-belt": "formal"
       },
-      "total_bytes": 10940782,
+      "total_bytes": 10966220,
       "maintainer_bypass": false
     },
     "stderr": ""
